@@ -1,0 +1,36 @@
+
+
+body{
+    color: white;
+    background-color: rgb(15, 62, 129);
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#title-container{
+    background-color: rgb(15, 62, 129);
+    height: 150px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+#title{
+    top:10px;
+    position: relative;
+}
+
+#timeTaken{
+    color: red;
+}
+
+
+#shape{
+    width:200px;
+    height:200px;
+    background-color: aqua;
+    display: none;
+    position: relative;
+
+}
